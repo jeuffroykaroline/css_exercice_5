@@ -1,6 +1,5 @@
 body
 {
-    background-image:url(https://i.pinimg.com/474x/f4/56/fe/f456fe0d0dffad03d763be199f0f5047--design-magazine-mcdonalds.jpg);
-    background-repeat:no-repeat;
-    background-position:center center;
-    background-position:50% 50%;}
+    background-image: url("../image/snog.jpg");
+    background-repeat: no-repeat;
+}
